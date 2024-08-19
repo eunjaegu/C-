@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DataGridViewColumns>
+	<Column>
+		<DataPropertyName>date</DataPropertyName>
+		<HeaderText>Date</HeaderText>
+		<MinimumWidth>8</MinimumWidth>
+		<Width>300</Width>
+	</Column>
+	<Column>
+		<DataPropertyName>seq</DataPropertyName>
+		<HeaderText>Seq.</HeaderText>
+		<MinimumWidth>8</MinimumWidth>
+		<Width>150</Width>
+	</Column>
+	<Column>
+		<DataPropertyName>min_x</DataPropertyName>
+		<HeaderText>Min X</HeaderText>
+		<MinimumWidth>8</MinimumWidth>
+		<Width>200</Width>
+	</Column>
+	<Column>
+		<DataPropertyName>min_y</DataPropertyName>
+		<HeaderText>Min Y</HeaderText>
+		<MinimumWidth>8</MinimumWidth>
+		<Width>200</Width>
+	</Column>
+	<Column>
+		<DataPropertyName>max_x</DataPropertyName>
+		<HeaderText>Max X</HeaderText>
+		<MinimumWidth>8</MinimumWidth>
+		<Width>200</Width>
+	</Column>
+	<Column>
+		<DataPropertyName>max_y</DataPropertyName>
+		<HeaderText>Max Y</HeaderText>
+		<MinimumWidth>8</MinimumWidth>
+		<Width>200</Width>
+	</Column>
+	<Column>
+		<DataPropertyName>area</DataPropertyName>
+		<HeaderText>Area</HeaderText>
+		<MinimumWidth>8</MinimumWidth>
+		<Width>200</Width>
+	</Column>
+	<Column>
+		<DataPropertyName>cls_conf</DataPropertyName>
+		<HeaderText>Confidence</HeaderText>
+		<MinimumWidth>8</MinimumWidth>
+		<Width>200</Width>
+	</Column>
+	<Column>
+		<DataPropertyName>cls_num</DataPropertyName>
+		<HeaderText>Class</HeaderText>
+		<MinimumWidth>8</MinimumWidth>
+		<Width>150</Width>
+	</Column>
+</DataGridViewColumns>

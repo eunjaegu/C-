@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DataGridViewColumns>
+	<Column>
+		<DataPropertyName>ClsNum</DataPropertyName>
+		<HeaderText>Class Code</HeaderText>
+		<MinimumWidth>8</MinimumWidth>
+		<Width>120</Width>
+		<ReadOnly>true</ReadOnly>
+	</Column>
+	<Column>
+		<DataPropertyName>ClsName</DataPropertyName>
+		<HeaderText>Class Name</HeaderText>
+		<MinimumWidth>8</MinimumWidth>
+		<Width>240</Width>
+		<ReadOnly>false</ReadOnly>
+	</Column>
+</DataGridViewColumns>	

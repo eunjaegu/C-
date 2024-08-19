@@ -1,0 +1,339 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\work_c#\\MyFirstApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{966AF19E-5DF5-46DC-8BF3-23CCEF5637B1}|MyFirstApp\\MyFirstApp.csproj|c:\\work_c#\\myfirstapp\\myfirstapp\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{966AF19E-5DF5-46DC-8BF3-23CCEF5637B1}|MyFirstApp\\MyFirstApp.csproj|solutionrelative:myfirstapp\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{966AF19E-5DF5-46DC-8BF3-23CCEF5637B1}|MyFirstApp\\MyFirstApp.csproj|c:\\work_c#\\myfirstapp\\myfirstapp\\classcodes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{966AF19E-5DF5-46DC-8BF3-23CCEF5637B1}|MyFirstApp\\MyFirstApp.csproj|solutionrelative:myfirstapp\\classcodes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{966AF19E-5DF5-46DC-8BF3-23CCEF5637B1}|MyFirstApp\\MyFirstApp.csproj|C:\\work_c#\\MyFirstApp\\myfirstapp\\classcodes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{966AF19E-5DF5-46DC-8BF3-23CCEF5637B1}|MyFirstApp\\MyFirstApp.csproj|solutionrelative:myfirstapp\\classcodes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{966AF19E-5DF5-46DC-8BF3-23CCEF5637B1}|MyFirstApp\\MyFirstApp.csproj|C:\\work_c#\\MyFirstApp\\myfirstapp\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{966AF19E-5DF5-46DC-8BF3-23CCEF5637B1}|MyFirstApp\\MyFirstApp.csproj|solutionrelative:myfirstapp\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{966AF19E-5DF5-46DC-8BF3-23CCEF5637B1}|MyFirstApp\\MyFirstApp.csproj|c:\\work_c#\\myfirstapp\\myfirstapp\\spread\\cls_info_cols.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{966AF19E-5DF5-46DC-8BF3-23CCEF5637B1}|MyFirstApp\\MyFirstApp.csproj|solutionrelative:myfirstapp\\spread\\cls_info_cols.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{966AF19E-5DF5-46DC-8BF3-23CCEF5637B1}|MyFirstApp\\MyFirstApp.csproj|c:\\work_c#\\myfirstapp\\myfirstapp\\clsinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{966AF19E-5DF5-46DC-8BF3-23CCEF5637B1}|MyFirstApp\\MyFirstApp.csproj|solutionrelative:myfirstapp\\clsinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{966AF19E-5DF5-46DC-8BF3-23CCEF5637B1}|MyFirstApp\\MyFirstApp.csproj|c:\\work_c#\\myfirstapp\\myfirstapp\\monitoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{966AF19E-5DF5-46DC-8BF3-23CCEF5637B1}|MyFirstApp\\MyFirstApp.csproj|solutionrelative:myfirstapp\\monitoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{966AF19E-5DF5-46DC-8BF3-23CCEF5637B1}|MyFirstApp\\MyFirstApp.csproj|c:\\work_c#\\myfirstapp\\myfirstapp\\aboutbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{966AF19E-5DF5-46DC-8BF3-23CCEF5637B1}|MyFirstApp\\MyFirstApp.csproj|solutionrelative:myfirstapp\\aboutbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{966AF19E-5DF5-46DC-8BF3-23CCEF5637B1}|MyFirstApp\\MyFirstApp.csproj|c:\\work_c#\\myfirstapp\\myfirstapp\\dbcon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{966AF19E-5DF5-46DC-8BF3-23CCEF5637B1}|MyFirstApp\\MyFirstApp.csproj|solutionrelative:myfirstapp\\dbcon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{966AF19E-5DF5-46DC-8BF3-23CCEF5637B1}|MyFirstApp\\MyFirstApp.csproj|c:\\work_c#\\myfirstapp\\myfirstapp\\monitoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{966AF19E-5DF5-46DC-8BF3-23CCEF5637B1}|MyFirstApp\\MyFirstApp.csproj|solutionrelative:myfirstapp\\monitoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{966AF19E-5DF5-46DC-8BF3-23CCEF5637B1}|MyFirstApp\\MyFirstApp.csproj|c:\\work_c#\\myfirstapp\\myfirstapp\\dbinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{966AF19E-5DF5-46DC-8BF3-23CCEF5637B1}|MyFirstApp\\MyFirstApp.csproj|solutionrelative:myfirstapp\\dbinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{966AF19E-5DF5-46DC-8BF3-23CCEF5637B1}|MyFirstApp\\MyFirstApp.csproj|c:\\work_c#\\myfirstapp\\myfirstapp\\aboutcon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{966AF19E-5DF5-46DC-8BF3-23CCEF5637B1}|MyFirstApp\\MyFirstApp.csproj|solutionrelative:myfirstapp\\aboutcon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{966AF19E-5DF5-46DC-8BF3-23CCEF5637B1}|MyFirstApp\\MyFirstApp.csproj|C:\\work_c#\\MyFirstApp\\myfirstapp\\mdi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{966AF19E-5DF5-46DC-8BF3-23CCEF5637B1}|MyFirstApp\\MyFirstApp.csproj|solutionrelative:myfirstapp\\mdi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{966AF19E-5DF5-46DC-8BF3-23CCEF5637B1}|MyFirstApp\\MyFirstApp.csproj|c:\\work_c#\\myfirstapp\\myfirstapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{966AF19E-5DF5-46DC-8BF3-23CCEF5637B1}|MyFirstApp\\MyFirstApp.csproj|solutionrelative:myfirstapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{966AF19E-5DF5-46DC-8BF3-23CCEF5637B1}|MyFirstApp\\MyFirstApp.csproj|c:\\work_c#\\myfirstapp\\myfirstapp\\aboutbox.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{966AF19E-5DF5-46DC-8BF3-23CCEF5637B1}|MyFirstApp\\MyFirstApp.csproj|solutionrelative:myfirstapp\\aboutbox.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{966AF19E-5DF5-46DC-8BF3-23CCEF5637B1}|MyFirstApp\\MyFirstApp.csproj|c:\\work_c#\\myfirstapp\\myfirstapp\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{966AF19E-5DF5-46DC-8BF3-23CCEF5637B1}|MyFirstApp\\MyFirstApp.csproj|solutionrelative:myfirstapp\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{966AF19E-5DF5-46DC-8BF3-23CCEF5637B1}|MyFirstApp\\MyFirstApp.csproj|c:\\work_c#\\myfirstapp\\myfirstapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{966AF19E-5DF5-46DC-8BF3-23CCEF5637B1}|MyFirstApp\\MyFirstApp.csproj|solutionrelative:myfirstapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{966AF19E-5DF5-46DC-8BF3-23CCEF5637B1}|MyFirstApp\\MyFirstApp.csproj|c:\\work_c#\\myfirstapp\\myfirstapp\\mdi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{966AF19E-5DF5-46DC-8BF3-23CCEF5637B1}|MyFirstApp\\MyFirstApp.csproj|solutionrelative:myfirstapp\\mdi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{966AF19E-5DF5-46DC-8BF3-23CCEF5637B1}|MyFirstApp\\MyFirstApp.csproj|c:\\work_c#\\myfirstapp\\myfirstapp\\classcodes.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{966AF19E-5DF5-46DC-8BF3-23CCEF5637B1}|MyFirstApp\\MyFirstApp.csproj|solutionrelative:myfirstapp\\classcodes.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 247,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\work_c#\\MyFirstApp\\MyFirstApp\\Login.cs",
+              "RelativeDocumentMoniker": "MyFirstApp\\Login.cs",
+              "ToolTip": "C:\\work_c#\\MyFirstApp\\MyFirstApp\\Login.cs",
+              "RelativeToolTip": "MyFirstApp\\Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T00:36:04.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Monitoring.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\work_c#\\MyFirstApp\\MyFirstApp\\Monitoring.cs",
+              "RelativeDocumentMoniker": "MyFirstApp\\Monitoring.cs",
+              "ToolTip": "C:\\work_c#\\MyFirstApp\\MyFirstApp\\Monitoring.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "MyFirstApp\\Monitoring.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T04:36:57.682Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClsInfo.cs",
+              "DocumentMoniker": "C:\\work_c#\\MyFirstApp\\MyFirstApp\\ClsInfo.cs",
+              "RelativeDocumentMoniker": "MyFirstApp\\ClsInfo.cs",
+              "ToolTip": "C:\\work_c#\\MyFirstApp\\MyFirstApp\\ClsInfo.cs",
+              "RelativeToolTip": "MyFirstApp\\ClsInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvw4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T04:36:32.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "cls_info_cols.xml",
+              "DocumentMoniker": "C:\\work_c#\\MyFirstApp\\MyFirstApp\\Spread\\cls_info_cols.xml",
+              "RelativeDocumentMoniker": "MyFirstApp\\Spread\\cls_info_cols.xml",
+              "ToolTip": "C:\\work_c#\\MyFirstApp\\MyFirstApp\\Spread\\cls_info_cols.xml",
+              "RelativeToolTip": "MyFirstApp\\Spread\\cls_info_cols.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-08-13T02:38:48.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\work_c#\\MyFirstApp\\MyFirstApp\\Login.cs",
+              "RelativeDocumentMoniker": "MyFirstApp\\Login.cs",
+              "ToolTip": "C:\\work_c#\\MyFirstApp\\MyFirstApp\\Login.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "MyFirstApp\\Login.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T00:21:30.225Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClassCodes.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\work_c#\\MyFirstApp\\MyFirstApp\\ClassCodes.cs",
+              "RelativeDocumentMoniker": "MyFirstApp\\ClassCodes.cs",
+              "ToolTip": "C:\\work_c#\\MyFirstApp\\MyFirstApp\\ClassCodes.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "MyFirstApp\\ClassCodes.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T02:46:56.513Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClassCodes.cs",
+              "DocumentMoniker": "C:\\work_c#\\MyFirstApp\\MyFirstApp\\ClassCodes.cs",
+              "RelativeDocumentMoniker": "MyFirstApp\\ClassCodes.cs",
+              "ToolTip": "C:\\work_c#\\MyFirstApp\\MyFirstApp\\ClassCodes.cs",
+              "RelativeToolTip": "MyFirstApp\\ClassCodes.cs",
+              "ViewState": "AQIAAMcAAAAAAAAAAAAkwN8AAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T00:27:41.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AboutBox.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\work_c#\\MyFirstApp\\MyFirstApp\\AboutBox.cs",
+              "RelativeDocumentMoniker": "MyFirstApp\\AboutBox.cs",
+              "ToolTip": "C:\\work_c#\\MyFirstApp\\MyFirstApp\\AboutBox.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "MyFirstApp\\AboutBox.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T04:29:18.19Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DBCon.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\work_c#\\MyFirstApp\\MyFirstApp\\DBCon.cs",
+              "RelativeDocumentMoniker": "MyFirstApp\\DBCon.cs",
+              "ToolTip": "C:\\work_c#\\MyFirstApp\\MyFirstApp\\DBCon.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "MyFirstApp\\DBCon.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T04:59:41.592Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DBInformation.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\work_c#\\MyFirstApp\\MyFirstApp\\DBInformation.cs",
+              "RelativeDocumentMoniker": "MyFirstApp\\DBInformation.cs",
+              "ToolTip": "C:\\work_c#\\MyFirstApp\\MyFirstApp\\DBInformation.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "MyFirstApp\\DBInformation.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T04:36:35.175Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AboutCon.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\work_c#\\MyFirstApp\\MyFirstApp\\AboutCon.cs",
+              "RelativeDocumentMoniker": "MyFirstApp\\AboutCon.cs",
+              "ToolTip": "C:\\work_c#\\MyFirstApp\\MyFirstApp\\AboutCon.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "MyFirstApp\\AboutCon.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T04:36:28.592Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Monitoring.cs",
+              "DocumentMoniker": "C:\\work_c#\\MyFirstApp\\MyFirstApp\\Monitoring.cs",
+              "RelativeDocumentMoniker": "MyFirstApp\\Monitoring.cs",
+              "ToolTip": "C:\\work_c#\\MyFirstApp\\MyFirstApp\\Monitoring.cs",
+              "RelativeToolTip": "MyFirstApp\\Monitoring.cs",
+              "ViewState": "AQIAAHQAAAAAAAAAAAAkwJkAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T02:31:46.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\work_c#\\MyFirstApp\\MyFirstApp\\appsettings.json",
+              "RelativeDocumentMoniker": "MyFirstApp\\appsettings.json",
+              "ToolTip": "C:\\work_c#\\MyFirstApp\\MyFirstApp\\appsettings.json",
+              "RelativeToolTip": "MyFirstApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-13T02:23:16.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AboutBox.Designer.cs",
+              "DocumentMoniker": "C:\\work_c#\\MyFirstApp\\MyFirstApp\\AboutBox.Designer.cs",
+              "RelativeDocumentMoniker": "MyFirstApp\\AboutBox.Designer.cs",
+              "ToolTip": "C:\\work_c#\\MyFirstApp\\MyFirstApp\\AboutBox.Designer.cs",
+              "RelativeToolTip": "MyFirstApp\\AboutBox.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T02:31:35.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MDI.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\work_c#\\MyFirstApp\\MyFirstApp\\MDI.cs",
+              "RelativeDocumentMoniker": "MyFirstApp\\MDI.cs",
+              "ToolTip": "C:\\work_c#\\MyFirstApp\\MyFirstApp\\MDI.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "MyFirstApp\\MDI.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T02:34:39.582Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Login.Designer.cs",
+              "DocumentMoniker": "C:\\work_c#\\MyFirstApp\\MyFirstApp\\Login.Designer.cs",
+              "RelativeDocumentMoniker": "MyFirstApp\\Login.Designer.cs",
+              "ToolTip": "C:\\work_c#\\MyFirstApp\\MyFirstApp\\Login.Designer.cs",
+              "RelativeToolTip": "MyFirstApp\\Login.Designer.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAmwEcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T02:29:54.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\work_c#\\MyFirstApp\\MyFirstApp\\Program.cs",
+              "RelativeDocumentMoniker": "MyFirstApp\\Program.cs",
+              "ToolTip": "C:\\work_c#\\MyFirstApp\\MyFirstApp\\Program.cs",
+              "RelativeToolTip": "MyFirstApp\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAIwCsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T02:25:49.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MDI.cs",
+              "DocumentMoniker": "C:\\work_c#\\MyFirstApp\\MyFirstApp\\MDI.cs",
+              "RelativeDocumentMoniker": "MyFirstApp\\MDI.cs",
+              "ToolTip": "C:\\work_c#\\MyFirstApp\\MyFirstApp\\MDI.cs",
+              "RelativeToolTip": "MyFirstApp\\MDI.cs",
+              "ViewState": "AQIAAHQAAAAAAAAAAAAqwIgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T02:56:46.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ClassCodes.Designer.cs",
+              "DocumentMoniker": "C:\\work_c#\\MyFirstApp\\MyFirstApp\\ClassCodes.Designer.cs",
+              "RelativeDocumentMoniker": "MyFirstApp\\ClassCodes.Designer.cs",
+              "ToolTip": "C:\\work_c#\\MyFirstApp\\MyFirstApp\\ClassCodes.Designer.cs",
+              "RelativeToolTip": "MyFirstApp\\ClassCodes.Designer.cs",
+              "ViewState": "AQIAAMcAAAAAAAAAAAAAwOAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T01:45:53.673Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
